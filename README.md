@@ -1,3 +1,4 @@
+HEAD
 # EdgeAI Acoustic Event Detection
 
 This project is an ESP32-based embedded AI system that detects acoustic events like claps, knocks, and alarms in real time.
@@ -28,3 +29,7 @@ This project is an ESP32-based embedded AI system that detects acoustic events l
 
 
 ---
+
+# EdgeAI-Acoustic-Event-Detection
+EdgeAI-powered embedded system using ESP32 and Edge Impulse to detect real-time acoustic events like claps, knocks, and alarms.
+ 24ac578f60e7321aff60b910ea358334eaf3a4ac
