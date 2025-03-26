@@ -1,6 +1,6 @@
 from pathlib import Path
 
-# Create the .ino file with the ESP32 firmware code
+# ESP32 firmware code
 ino_code = """
 #include <Arduino.h>
 #include <driver/i2s.h>
